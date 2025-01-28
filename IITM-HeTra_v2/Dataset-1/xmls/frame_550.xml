@@ -1,0 +1,1 @@
+<annotation><filename>frame_550.jpg</filename><size><height>482</height><width>640</width><depth>3</depth></size><object><name>Car</name><difficult>0</difficult><bndbox><xmin>233</xmin><ymin>109</ymin><xmax>304</xmax><ymax>217</ymax></bndbox></object></annotation>
